@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "LUXORIDES_2.0": {
+    "Cars-app": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -53,10 +53,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "LUXORIDES_2.0:build:production"
+              "browserTarget": "Cars-app:build:production"
             },
             "development": {
-              "browserTarget": "LUXORIDES_2.0:build:development"
+              "browserTarget": "Cars-app:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -64,7 +64,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "LUXORIDES_2.0:build"
+            "browserTarget": "Cars-app:build"
           }
         },
         "test": {
