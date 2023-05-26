@@ -10,31 +10,31 @@
 
 - Скриншоты интерфейса сайта:
 
-![screenshot](forReade/Cars-app1.png)
+![screenshot](https://github.com/MOROZOVcode/Cars-app/blob/main/forReade/Cars-app1.png)
 
-![screenshot](forReade/Cars-app2.png)
+![screenshot](https://github.com/MOROZOVcode/Cars-app/blob/main/forReade/Cars-app2.png)
 
-![screenshot](forReade/Cars-app3.png)
+![screenshot](https://github.com/MOROZOVcode/Cars-app/blob/main/forReade/Cars-app3.png)
 
-![screenshot](forReade/Cars-app4.png)
+![screenshot](https://github.com/MOROZOVcode/Cars-app/blob/main/forReade/Cars-app4.png)
 
-![screenshot](forReade/Cars-app5.png)
+![screenshot](https://github.com/MOROZOVcode/Cars-app/blob/main/forReade/Cars-app5.png)
 
-![screenshot](forReade/Cars-app6.png)
+![screenshot](https://github.com/MOROZOVcode/Cars-app/blob/main/forReade/Cars-app6.png)
 
 - Скринкасты взаимодействия с элементами сайта:
 
-![screencast](forReade/Cars-app1.gif)
+![screencast](https://github.com/MOROZOVcode/Cars-app/blob/main/forReade/Cars-app1.gif)
 
-![screencast](forReade/Cars-app2.gif)
+![screencast](https://github.com/MOROZOVcode/Cars-app/blob/main/forReade/Cars-app2.gif)
 
-![screencast](forReade/Cars-app3.gif)
+![screencast](https://github.com/MOROZOVcode/Cars-app/blob/main/forReade/Cars-app3.gif)
 
-![screencast](forReade/Cars-app4.gif)
+![screencast](https://github.com/MOROZOVcode/Cars-app/blob/main/forReade/Cars-app4.gif)
 
-![screencast](forReade/Cars-app5.gif)
+![screencast](https://github.com/MOROZOVcode/Cars-app/blob/main/forReade/Cars-app5.gif)
 
-![screencast](forReade/Cars-app6.gif)
+![screencast](https://github.com/MOROZOVcode/Cars-app/blob/main/forReade/Cars-app6.gif)
 
 ---
 
