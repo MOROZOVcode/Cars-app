@@ -42,10 +42,18 @@
 
 > Открыть сайт можно по ссылке: [morozovcode.github.io/Cars-app](https://morozovcode.github.io/Cars-app/)
 
-> Запустить проект у себя, можно введя следующие команды в терминале:
+- **Запустить проект у себя, можно введя следующие команды в терминале**:
 
 ```
 $ git clone https://github.com/MOROZOVcode/Cars-app.git
 $ cd Cars-app
 $ npm instal
 ```
+
+- Чтобы открыть сайт в режиме разработки, необходимо ввести следующую команду:
+
+```
+$ ng serve
+```
+
+И затем перейти по ссылке http://localhost:4200/
